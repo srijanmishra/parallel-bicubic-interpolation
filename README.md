@@ -7,7 +7,7 @@ Parallel implementation of bicubic interpolation algorithm used for image resizi
 Tools Used
 ----------
 
-[openmpi](http://open-mpi.org/).
+[openmpi](http://open-mpi.org/), [CImg](http://cimg.sourceforge.net/).
 
 
 Team Members
